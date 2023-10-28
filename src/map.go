@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main9() {
 	m := make(map[string]int)
 
 	m["Jose"] = 14
